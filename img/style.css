@@ -1,0 +1,29 @@
+body 
+{font-family: roboto;
+    background-color:#CCDFF0;
+color: #48361A;} 
+
+
+h1,h2,h3,h4,h5,h6 {
+font-family: "Tauri&display"
+   font: family 4px;0pt;
+}
+
+header {
+    text-align: center;
+}
+
+#hero, footer  {
+    color: #F0E2CC;
+    border: 2px solid #7B97B0;
+    background-color: #325370;
+    text-align: center;
+}
+
+#hero img{
+    width: 300px;
+}
+
+#bio{
+    text-align: center;
+}
